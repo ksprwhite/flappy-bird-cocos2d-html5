@@ -1,4 +1,6 @@
-flappy-bird-cocos2d-html5
-=========================
+**Flappy bird Cocos 2d html5**
+---------------------------------------
 
-Flappy bird clone, made with cocos2d-js to learn cocos2d html5
+A **flappy bird** clone made with **cocos2d html5** Developed when I was learning cocos2d-js
+
+----------
